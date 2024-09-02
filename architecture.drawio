@@ -28,6 +28,18 @@
                 <mxCell id="10" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=30;" vertex="1" parent="1">
                     <mxGeometry x="1160" y="80" width="400" height="400" as="geometry"/>
                 </mxCell>
+                <mxCell id="12" value="Server" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=30;" vertex="1" parent="1">
+                    <mxGeometry x="750" y="100" width="110" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" value="&lt;span style=&quot;&quot;&gt;Next.js API Router&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=30;" vertex="1" parent="1">
+                    <mxGeometry x="675" y="190" width="270" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="14" value="Server Components" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=30;" vertex="1" parent="1">
+                    <mxGeometry x="675" y="255" width="290" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="15" value="TypeScript" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=30;" vertex="1" parent="1">
+                    <mxGeometry x="735" y="320" width="170" height="50" as="geometry"/>
+                </mxCell>
             </root>
         </mxGraphModel>
     </diagram>
