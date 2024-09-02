@@ -52,6 +52,12 @@
                 <mxCell id="20" value="Realtime Subscriptions" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=30;" vertex="1" parent="1">
                     <mxGeometry x="1210" y="320" width="330" height="50" as="geometry"/>
                 </mxCell>
+                <mxCell id="21" value="" style="shape=doubleArrow;whiteSpace=wrap;html=1;fontSize=30;" vertex="1" parent="1">
+                    <mxGeometry x="1040" y="250" width="100" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="22" value="" style="shape=doubleArrow;whiteSpace=wrap;html=1;fontSize=30;" vertex="1" parent="1">
+                    <mxGeometry x="500" y="250" width="100" height="60" as="geometry"/>
+                </mxCell>
             </root>
         </mxGraphModel>
     </diagram>
